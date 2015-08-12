@@ -23,7 +23,7 @@ namespace SmsXmlParse
                 SMS sms = new SMS();
 
                 sms.Contact = node.Attributes["contact_name"].Value;
-                sms.Number = node.Attributes["address"].Value;
+                //sms.Number = node.Attributes["address"].Value;
                 DateTime.TryParse(node.Attributes["readable_date"].Value, out sms.Timestamp);
                 //Int32.TryParse(node.Attributes["type"].InnerText, out sms.type);
                 //sms.Message = node.Attributes["body"].InnerText;
