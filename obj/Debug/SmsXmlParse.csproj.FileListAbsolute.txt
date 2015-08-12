@@ -1,0 +1,6 @@
+c:\users\james\documents\visual studio 2015\Projects\SmsXmlParse\SmsXmlParse\bin\Debug\SmsXmlParse.exe.config
+c:\users\james\documents\visual studio 2015\Projects\SmsXmlParse\SmsXmlParse\bin\Debug\SmsXmlParse.exe
+c:\users\james\documents\visual studio 2015\Projects\SmsXmlParse\SmsXmlParse\bin\Debug\SmsXmlParse.pdb
+c:\users\james\documents\visual studio 2015\Projects\SmsXmlParse\SmsXmlParse\obj\Debug\SmsXmlParse.csprojResolveAssemblyReference.cache
+c:\users\james\documents\visual studio 2015\Projects\SmsXmlParse\SmsXmlParse\obj\Debug\SmsXmlParse.exe
+c:\users\james\documents\visual studio 2015\Projects\SmsXmlParse\SmsXmlParse\obj\Debug\SmsXmlParse.pdb
